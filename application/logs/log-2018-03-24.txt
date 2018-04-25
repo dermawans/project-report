@@ -1,0 +1,64 @@
+DEBUG - 2018-03-24 12:15:51 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:15:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:15:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:15:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:15:51 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:15:51 --> No URI present. Default controller set.
+DEBUG - 2018-03-24 12:15:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:15:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:15:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:15:51 --> Total execution time: 0.0205
+DEBUG - 2018-03-24 12:15:53 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:15:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-24 12:15:53 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-24 12:15:53 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:15:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-24 12:15:53 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-24 12:16:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:16:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:16:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:16:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:16:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:16:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:16:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:16:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:16:02 --> Total execution time: 0.3855
+DEBUG - 2018-03-24 12:17:26 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:17:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:17:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:17:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:26 --> Total execution time: 0.0776
+DEBUG - 2018-03-24 12:17:38 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:17:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:17:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:17:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:38 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:17:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:17:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:17:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:38 --> Total execution time: 0.0049
+DEBUG - 2018-03-24 12:17:43 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:17:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:17:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:17:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:43 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:17:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:17:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:17:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:43 --> Total execution time: 0.1597
+DEBUG - 2018-03-24 12:17:47 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:17:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:17:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:17:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:17:47 --> Total execution time: 0.0244
+DEBUG - 2018-03-24 12:18:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:18:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:18:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:18:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:18:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-24 12:18:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-24 12:18:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-24 12:18:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-24 12:18:01 --> Total execution time: 0.0039

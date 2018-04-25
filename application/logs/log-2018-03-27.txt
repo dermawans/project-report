@@ -1,0 +1,15 @@
+DEBUG - 2018-03-27 12:59:58 --> UTF-8 Support Enabled
+DEBUG - 2018-03-27 12:59:58 --> No URI present. Default controller set.
+DEBUG - 2018-03-27 12:59:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-27 12:59:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-27 12:59:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-27 12:59:58 --> Total execution time: 0.0751
+DEBUG - 2018-03-27 12:59:58 --> UTF-8 Support Enabled
+DEBUG - 2018-03-27 12:59:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-27 12:59:58 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-27 15:58:33 --> UTF-8 Support Enabled
+DEBUG - 2018-03-27 15:58:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-27 15:58:33 --> 404 Page Not Found: Assests/api
+DEBUG - 2018-03-27 15:58:47 --> UTF-8 Support Enabled
+DEBUG - 2018-03-27 15:58:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-27 15:58:47 --> 404 Page Not Found: Faviconico/index

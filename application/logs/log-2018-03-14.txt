@@ -1,0 +1,619 @@
+DEBUG - 2018-03-14 09:13:28 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 09:13:28 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 09:13:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 09:13:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 09:13:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 09:13:28 --> Total execution time: 0.1094
+DEBUG - 2018-03-14 09:13:28 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 09:13:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-14 09:13:28 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-14 10:59:09 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:09 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:09 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 10:59:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:09 --> Total execution time: 0.0166
+DEBUG - 2018-03-14 10:59:14 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-14 10:59:14 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-14 10:59:14 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-14 10:59:14 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-14 10:59:15 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:15 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:15 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:15 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 10:59:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:15 --> Total execution time: 0.0051
+DEBUG - 2018-03-14 10:59:20 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:20 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:20 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:20 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 10:59:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:20 --> Total execution time: 0.0711
+DEBUG - 2018-03-14 10:59:33 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:33 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:33 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:33 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 10:59:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:33 --> Total execution time: 0.0304
+DEBUG - 2018-03-14 10:59:42 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:42 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:42 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:42 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 10:59:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:42 --> Total execution time: 0.0040
+DEBUG - 2018-03-14 10:59:47 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:47 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 10:59:47 --> Total execution time: 0.1227
+DEBUG - 2018-03-14 10:59:50 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 10:59:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 10:59:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 10:59:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 10:59:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 10:59:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 10:59:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 10:59:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 10:59:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 10:59:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 10:59:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 10:59:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 10:59:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 10:59:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 10:59:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 10:59:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 10:59:50 --> Total execution time: 0.0215
+DEBUG - 2018-03-14 11:00:04 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:04 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:00:04 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:04 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:04 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:04 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:04 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:04 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:00:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:00:04 --> Total execution time: 0.1178
+DEBUG - 2018-03-14 11:00:15 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:15 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:15 --> Total execution time: 0.0616
+DEBUG - 2018-03-14 11:00:19 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:19 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:19 --> Total execution time: 0.0658
+DEBUG - 2018-03-14 11:00:24 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:00:24 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:24 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:24 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:24 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:24 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:24 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:24 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:24 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:24 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:24 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:24 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:00:24 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:00:24 --> Total execution time: 0.0664
+DEBUG - 2018-03-14 11:00:37 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:37 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:38 --> Total execution time: 0.0424
+DEBUG - 2018-03-14 11:00:44 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:44 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:44 --> Total execution time: 0.1081
+DEBUG - 2018-03-14 11:00:49 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:49 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:00:49 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:49 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:49 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:49 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:49 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:49 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:49 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:49 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:49 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:49 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:49 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:00:49 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:00:49 --> Total execution time: 0.1907
+DEBUG - 2018-03-14 11:00:55 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:55 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:00:55 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:00:56 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:00:56 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:00:56 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:00:56 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:00:56 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:00:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:00:56 --> Total execution time: 0.1340
+DEBUG - 2018-03-14 11:00:59 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:00:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:00:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:00:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:00:59 --> Total execution time: 0.0245
+DEBUG - 2018-03-14 11:01:51 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:01:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:01:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:01:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:01:51 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:01:51 --> Total execution time: 0.0583
+DEBUG - 2018-03-14 11:02:07 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:02:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:02:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:02:07 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:02:07 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:02:07 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:02:07 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:02:07 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:02:07 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:02:07 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:02:07 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:02:07 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:02:07 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:02:07 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:02:07 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:02:07 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:02:07 --> Total execution time: 0.0623
+DEBUG - 2018-03-14 11:02:41 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:02:41 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 11:02:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:02:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:02:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:02:41 --> Total execution time: 0.0046
+DEBUG - 2018-03-14 11:02:53 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:02:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:02:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:02:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:02:53 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:02:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:02:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:02:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:02:53 --> Total execution time: 0.1412
+DEBUG - 2018-03-14 11:03:30 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:03:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:03:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:03:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:03:30 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:03:30 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:03:30 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:03:30 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:03:30 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:03:30 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:03:30 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:03:30 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:03:30 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:03:30 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:03:30 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:03:30 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:03:30 --> Total execution time: 0.0693
+DEBUG - 2018-03-14 11:05:25 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:05:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:05:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:05:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:05:25 --> Total execution time: 0.0263
+DEBUG - 2018-03-14 11:16:52 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:16:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:16:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:16:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:16:52 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:16:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:16:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:16:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:16:52 --> Total execution time: 0.0425
+DEBUG - 2018-03-14 11:16:57 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:16:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:16:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:16:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:16:57 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:16:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:16:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:16:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:16:57 --> Total execution time: 0.1732
+DEBUG - 2018-03-14 11:17:02 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:17:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:17:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:17:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 11:17:02 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:17:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 11:17:02 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:17:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 11:17:02 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:17:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 11:17:02 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:17:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 11:17:02 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:17:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 11:17:02 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 11:17:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 11:17:02 --> Total execution time: 0.0944
+DEBUG - 2018-03-14 11:20:40 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:20:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:20:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:20:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:20:40 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 11:20:40 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 11:20:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 11:20:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 11:20:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 11:20:40 --> Total execution time: 0.0615
+DEBUG - 2018-03-14 15:56:22 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:56:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:56:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:56:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:56:22 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:56:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:56:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:56:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:56:22 --> Total execution time: 0.0377
+DEBUG - 2018-03-14 15:56:26 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:56:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:56:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:56:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:56:26 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:56:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:56:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:56:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:56:26 --> Total execution time: 0.0870
+DEBUG - 2018-03-14 15:56:29 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:56:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:56:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:56:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 15:56:29 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 15:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 15:56:29 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 15:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 15:56:29 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 15:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 15:56:29 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 15:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 15:56:29 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 15:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 15:56:29 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 15:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 15:56:29 --> Total execution time: 0.0563
+DEBUG - 2018-03-14 15:57:27 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:57:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:57:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:57:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 15:57:27 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 15:57:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 15:57:27 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 15:57:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 15:57:27 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 15:57:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 15:57:27 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 15:57:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 15:57:27 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 15:57:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 15:57:27 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 15:57:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 15:57:27 --> Total execution time: 0.0778
+DEBUG - 2018-03-14 15:57:33 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:57:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:57:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:57:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:57:33 --> Total execution time: 0.1520
+DEBUG - 2018-03-14 15:58:49 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:58:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:58:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:58:49 --> Session class already loaded. Second attempt ignored.
+ERROR - 2018-03-14 15:58:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 15:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 94
+ERROR - 2018-03-14 15:58:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 15:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 97
+ERROR - 2018-03-14 15:58:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 15:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 118
+ERROR - 2018-03-14 15:58:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 15:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 121
+ERROR - 2018-03-14 15:58:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 15:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 143
+ERROR - 2018-03-14 15:58:50 --> Severity: Notice --> Undefined variable: data_grafikstatus /var/www/html/application/views/element/v_footer.php 146
+ERROR - 2018-03-14 15:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/application/views/element/v_footer.php 146
+DEBUG - 2018-03-14 15:58:50 --> Total execution time: 0.0517
+DEBUG - 2018-03-14 15:58:54 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:58:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:58:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:58:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:58:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:58:54 --> Total execution time: 0.1060
+DEBUG - 2018-03-14 15:59:02 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 15:59:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 15:59:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 15:59:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:59:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 15:59:02 --> Total execution time: 0.0196
+DEBUG - 2018-03-14 16:45:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 16:45:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 16:45:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 16:45:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 16:45:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 16:45:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 16:45:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 16:45:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 16:45:01 --> Total execution time: 0.0073
+DEBUG - 2018-03-14 17:13:53 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:13:53 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 17:13:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:13:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:13:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:13:53 --> Total execution time: 0.0083
+DEBUG - 2018-03-14 17:13:54 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:13:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-14 17:13:54 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2018-03-14 17:14:00 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:14:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:14:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:14:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:00 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:14:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:14:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:14:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:00 --> Total execution time: 0.1066
+DEBUG - 2018-03-14 17:14:06 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:14:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:14:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:14:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:06 --> Total execution time: 0.0671
+DEBUG - 2018-03-14 17:14:10 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:14:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:14:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:14:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:10 --> Total execution time: 0.0149
+DEBUG - 2018-03-14 17:14:14 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:14:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:14:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:14:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:14:14 --> Total execution time: 0.0408
+DEBUG - 2018-03-14 17:17:46 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:17:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:17:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:17:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:47 --> Total execution time: 0.0820
+DEBUG - 2018-03-14 17:17:50 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:17:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:17:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:17:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:50 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:50 --> Total execution time: 0.0644
+DEBUG - 2018-03-14 17:17:54 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:17:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:17:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:17:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:54 --> Total execution time: 0.0724
+DEBUG - 2018-03-14 17:17:57 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:17:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:17:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:17:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:17:57 --> Total execution time: 0.0234
+DEBUG - 2018-03-14 17:21:17 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:21:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:21:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:21:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:21:17 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:21:17 --> Total execution time: 0.1146
+DEBUG - 2018-03-14 17:22:10 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:22:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:22:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:22:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:22:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:22:10 --> Total execution time: 0.0243
+DEBUG - 2018-03-14 17:23:11 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:23:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:23:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:23:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:23:11 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:23:11 --> Total execution time: 0.0192
+DEBUG - 2018-03-14 17:25:02 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:25:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:25:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:25:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:25:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:25:03 --> Total execution time: 0.1847
+DEBUG - 2018-03-14 17:26:22 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:26:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:26:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:26:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:26:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:26:22 --> Total execution time: 0.0773
+DEBUG - 2018-03-14 17:28:31 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:28:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:28:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:28:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:28:31 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:28:31 --> Total execution time: 0.0140
+DEBUG - 2018-03-14 17:34:34 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 17:34:34 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 17:34:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 17:34:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 17:34:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 17:34:34 --> Total execution time: 0.0046
+DEBUG - 2018-03-14 19:43:00 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:43:00 --> No URI present. Default controller set.
+DEBUG - 2018-03-14 19:43:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:43:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:43:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:43:00 --> Total execution time: 0.0059
+DEBUG - 2018-03-14 19:44:54 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:44:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:44:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:44:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:44:54 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:44:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:44:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:44:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:44:54 --> Total execution time: 0.0873
+DEBUG - 2018-03-14 19:44:57 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:44:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:44:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:44:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:44:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:44:57 --> Total execution time: 0.0296
+DEBUG - 2018-03-14 19:45:01 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:45:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:45:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:45:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:45:01 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:45:01 --> Total execution time: 0.0302
+DEBUG - 2018-03-14 19:46:03 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:46:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:46:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:46:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:46:03 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:46:03 --> Total execution time: 0.0449
+DEBUG - 2018-03-14 19:46:32 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:46:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:46:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:46:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:46:32 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:46:32 --> Total execution time: 0.0119
+DEBUG - 2018-03-14 19:47:46 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:47:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:47:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:47:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:47:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:47:46 --> Total execution time: 0.0423
+DEBUG - 2018-03-14 19:48:39 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:48:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:48:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:48:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:48:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:48:39 --> Total execution time: 0.0845
+DEBUG - 2018-03-14 19:48:43 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:48:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:48:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:48:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:48:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:48:43 --> Total execution time: 0.0849
+DEBUG - 2018-03-14 19:50:18 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:19 --> Total execution time: 0.0728
+DEBUG - 2018-03-14 19:50:23 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:23 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:23 --> Total execution time: 0.0157
+DEBUG - 2018-03-14 19:50:35 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:35 --> Total execution time: 0.1137
+DEBUG - 2018-03-14 19:50:39 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:40 --> Total execution time: 0.1458
+DEBUG - 2018-03-14 19:50:43 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:43 --> Total execution time: 0.0581
+DEBUG - 2018-03-14 19:50:46 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:46 --> Total execution time: 0.0367
+DEBUG - 2018-03-14 19:50:53 --> UTF-8 Support Enabled
+DEBUG - 2018-03-14 19:50:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-14 19:50:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-14 19:50:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-03-14 19:50:53 --> Total execution time: 0.0350

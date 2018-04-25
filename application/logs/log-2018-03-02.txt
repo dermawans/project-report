@@ -1,0 +1,9 @@
+DEBUG - 2018-03-02 09:02:23 --> UTF-8 Support Enabled
+DEBUG - 2018-03-02 09:02:23 --> No URI present. Default controller set.
+DEBUG - 2018-03-02 09:02:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-02 09:02:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-02 09:02:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2018-03-02 09:02:23 --> Total execution time: 0.1726
+DEBUG - 2018-03-02 09:02:24 --> UTF-8 Support Enabled
+DEBUG - 2018-03-02 09:02:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-03-02 09:02:24 --> 404 Page Not Found: Faviconico/index

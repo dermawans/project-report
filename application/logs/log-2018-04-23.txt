@@ -1,0 +1,213 @@
+APPLOG - 2018-04-23 14:41:10 --> ip:10.10.27.2|browser:Firefox,45.0|uri:login cek_login   |info:dermawan|info:gagal login, salah captcha|
+APPLOG - 2018-04-23 14:41:24 --> ip:10.10.27.2|browser:Firefox,45.0|uri:login cek_login   |info:dermawan|info:gagal login salah username atau password|
+APPLOG - 2018-04-23 14:41:34 --> ip:10.10.27.2|browser:Firefox,45.0|uri:login cek_login   |user:3|info:Dermawan|info:berhasil login|
+APPLOG - 2018-04-23 14:41:34 --> ip:10.10.27.2|browser:Firefox,45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 14:41:53 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 14:41:56 --> ip:10.10.27.2|browser:Firefox,45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 14:42:52 --> ip:10.10.27.2|browser:Firefox,45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 14:49:25 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 14:49:30 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project view_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman view project|
+APPLOG - 2018-04-23 14:49:36 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 14:49:39 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 14:49:46 --> ip:10.10.27.2|browser:Firefox,45.0|uri:login logout   |user:3|info:Dermawan|info:berhasil logout|
+APPLOG - 2018-04-23 14:53:22 --> ip:10.10.27.2|browser:Firefox,45.0|uri:login cek_login   |user:3|info:Dermawan|info:berhasil login|
+APPLOG - 2018-04-23 14:53:22 --> ip:10.10.27.2|browser:Firefox,45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 14:53:25 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 14:53:31 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 14:53:42 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 14:55:42 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 14:55:54 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 14:56:22 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 14:56:34 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 14:56:48 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+APPLOG - 2018-04-23 14:56:48 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:00:39 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW) /var/www/html/app-development/application/models/Model_log.php 23
+ERROR - 2018-04-23 15:00:57 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:00:57 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:01:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:01:04 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+ERROR - 2018-04-23 15:01:04 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:01:04 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:01:38 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:01:38 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:01:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:01:43 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+ERROR - 2018-04-23 15:01:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:01:43 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:03:13 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 68 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:03:13 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:03:13 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:03:27 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 287 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:03:27 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:03:27 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:04:02 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 523 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:04:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:04:02 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+ERROR - 2018-04-23 15:04:02 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 68 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:04:02 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 23
+APPLOG - 2018-04-23 15:04:02 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 15:04:56 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 15:04:57 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project view_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman view project|
+APPLOG - 2018-04-23 15:04:59 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 15:05:01 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 15:05:15 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+APPLOG - 2018-04-23 15:05:15 --> ip:10.10.27.2|browser:Firefox,45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 15:06:06 --> ip:10.10.27.2|browser:Firefox,45.0|uri:login logout   |user:3|info:Dermawan|info:berhasil logout|
+APPLOG - 2018-04-23 15:08:20 --> ip:10.10.27.2|browser:Firefox,45.0,Linux,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:3|info:Dermawan|info:berhasil login|
+APPLOG - 2018-04-23 15:08:20 --> ip:10.10.27.2|browser:Firefox,45.0,Linux,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:09:55 --> ip:10.10.27.2|browser:Firefox,45.0,Linux[Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0]|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:10:34 --> ip:10.10.27.2|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:18:52 --> ip:10.10.27.2,10.10.27.2|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:19:15 --> ip:10.10.27.2,10.10.29.177|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:20:40 --> ip:10.10.27.2,10.10.29.177|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:login cek_login   |user:1|info:Basga|info:berhasil login|
+APPLOG - 2018-04-23 15:20:40 --> ip:10.10.27.2,10.10.29.177|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:dashboard    |user:1|info:Basga|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:21:09 --> ip:10.10.27.2,10.10.29.177|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:3|info:Dermawan|info:berhasil logout|
+APPLOG - 2018-04-23 15:21:17 --> ip:10.10.27.2,10.10.29.177|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:dashboard    |user:1|info:Basga|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:39:12 --> ip:|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |info:asddsa|info:gagal login, salah captcha|
+APPLOG - 2018-04-23 15:40:08 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |info:sada|info:gagal login, salah captcha|
+APPLOG - 2018-04-23 15:43:38 --> ip:202.62.17.58, 64.233.173.59|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:dashboard    |user:1|info:Basga|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:45:47 --> ip:202.62.17.58, 64.233.173.57|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:login logout   |user:1|info:Basga|info:berhasil logout|
+APPLOG - 2018-04-23 15:46:34 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:3|info:Dermawan|info:berhasil login|
+APPLOG - 2018-04-23 15:46:34 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|info:Dermawan|info:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 15:46:39 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 15:46:47 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 15:47:00 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+APPLOG - 2018-04-23 15:47:00 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:48:03 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 38
+APPLOG - 2018-04-23 15:48:03 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:48:11 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 38
+APPLOG - 2018-04-23 15:48:11 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+ERROR - 2018-04-23 15:48:12 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 38
+APPLOG - 2018-04-23 15:48:12 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:49:09 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 287 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:49:09 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 39
+APPLOG - 2018-04-23 15:49:09 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:56:11 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 68 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:56:11 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 39
+APPLOG - 2018-04-23 15:56:11 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+ERROR - 2018-04-23 15:56:14 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 287 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:56:14 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 39
+APPLOG - 2018-04-23 15:56:14 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:57:15 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 287 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:57:15 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 39
+APPLOG - 2018-04-23 15:57:15 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 15:57:25 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 524 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:57:25 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 39
+APPLOG - 2018-04-23 15:57:25 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+ERROR - 2018-04-23 15:57:25 --> Severity: Warning --> Missing argument 3 for Model_log::logAction(), called in /var/www/html/app-development/application/controllers/Project.php on line 68 and defined /var/www/html/app-development/application/models/Model_log.php 6
+ERROR - 2018-04-23 15:57:25 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 39
+APPLOG - 2018-04-23 15:57:25 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 15:57:56 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 15:58:03 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+APPLOG - 2018-04-23 15:58:03 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:00:27 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:00:33 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:Array|
+APPLOG - 2018-04-23 16:00:34 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:01:54 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:02:02 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|
+APPLOG - 2018-04-23 16:02:02 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:03:13 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:03:23 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:P000000022|info:3|info:7|info:3|info:5|info:2018-04-04|info:2018-05-18|info:<ul><li>Bank sedang tes <br></li></ul>|info:1|info:2018-04-23 16:03:23|info:3|info:0|info:|
+APPLOG - 2018-04-23 16:03:23 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:04:27 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 16:04:31 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 33
+APPLOG - 2018-04-23 16:04:31 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|
+APPLOG - 2018-04-23 16:04:32 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:06:08 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+ERROR - 2018-04-23 16:06:12 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/app-development/application/models/Model_log.php 33
+APPLOG - 2018-04-23 16:06:12 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|
+APPLOG - 2018-04-23 16:06:13 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:08:30 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|info:Dermawan|info:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:08:36 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|info:Dermawan|info:update data berhasil|info:P000000022|info:3|info:7|info:3|info:5|info:2018-04-04|info:2018-05-18|info:<ul><li>Bank sedang tes <br></li></ul>|info:1|info:2018-04-23 16:08:36|info:3|info:0|info:|
+APPLOG - 2018-04-23 16:08:36 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|info:Dermawan|info:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:10:22 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|data:Dermawan|data:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:10:28 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|data:Dermawan|data:update data berhasil|data:P000000022|data:3|data:7|data:3|data:5|data:2018-04-04|data:2018-05-18|data:<ul><li>Bank sedang tes 1<br></li></ul>|data:1|data:2018-04-23 16:10:28|data:3|data:0|data:|
+APPLOG - 2018-04-23 16:10:28 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|data:Dermawan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:17:40 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000022  |user:3|data:Dermawan|data:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:27:04 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:3|data:Dermawan|data:berhasil logout|
+APPLOG - 2018-04-23 16:27:16 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:6|data:Bahar|data:berhasil login|
+APPLOG - 2018-04-23 16:27:16 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:6|data:Bahar|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:27:25 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:6|data:Bahar|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:27:58 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project add_project   |user:6|data:Bahar|data:create core project berhasil|data:P000000032|data:tes project|data:6|data:2018-04-23 16:27:58|
+APPLOG - 2018-04-23 16:27:58 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project add_project   |user:6|data:Bahar|data:upload file gagal|data:P000000032|data:6|data:8|data:4|data:2018-04-24|data:2018-05-05|data:<p>tes<br></p>|data:1|data:6|data:2018-04-23 16:27:58|data:0|data:|
+APPLOG - 2018-04-23 16:27:58 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project add_project   |user:6|data:Bahar|data:create core project history berhasil|data:P000000032|data:6|data:8|data:4|data:2018-04-24|data:2018-05-05|data:<p>tes<br></p>|data:1|data:6|data:2018-04-23 16:27:58|data:0|data:|
+APPLOG - 2018-04-23 16:27:59 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project add_project   |user:6|data:Bahar|data:email project gagal dikirim|data:P000000032|data:6|data:8|data:4|data:2018-04-24|data:2018-05-05|data:<p>tes<br></p>|data:1|data:6|data:2018-04-23 16:27:58|data:0|data:|
+APPLOG - 2018-04-23 16:27:59 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project add_project   |user:6|data:Bahar|data:data project berhasil ditambahkan|data:P000000032|data:6|data:8|data:4|data:2018-04-24|data:2018-05-05|data:<p>tes<br></p>|data:1|data:6|data:2018-04-23 16:27:58|data:0|data:|
+APPLOG - 2018-04-23 16:27:59 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:6|data:Bahar|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:28:45 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:6|data:Bahar|data:berhasil logout|
+APPLOG - 2018-04-23 16:28:54 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:5|data:Nanda|data:berhasil login|
+APPLOG - 2018-04-23 16:28:54 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:5|data:Nanda|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:28:58 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:5|data:Nanda|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:29:02 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000032  |user:5|data:Nanda|data:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:29:14 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project add_qt_pic   |user:5|data:Nanda|data:pic qt berhasil diassign|data:P000000032|data:6|data:3|data:8|data:4|data:2018-04-24|data:2018-05-05|data:<p>tes yah<br></p>|data:1|data:2018-04-23 16:29:14|data:5|data:0|
+APPLOG - 2018-04-23 16:29:14 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:5|data:Nanda|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:29:37 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:5|data:Nanda|data:berhasil logout|
+APPLOG - 2018-04-23 16:29:44 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:3|data:Dermawan|data:berhasil login|
+APPLOG - 2018-04-23 16:29:44 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|data:Dermawan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:29:50 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|data:Dermawan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:29:54 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project update_project P000000032  |user:3|data:Dermawan|data:masuk ke halaman update project|
+APPLOG - 2018-04-23 16:30:04 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project qt_update   |user:3|data:Dermawan|data:update data berhasil|data:P000000032|data:3|data:6|data:3|data:4|data:2018-04-24|data:2018-05-05|data:<p>ok<br></p>|data:1|data:2018-04-23 16:30:04|data:3|data:0|data:|
+APPLOG - 2018-04-23 16:30:04 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|data:Dermawan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:35:03 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:3|data:Dermawan|data:berhasil logout|
+APPLOG - 2018-04-23 16:35:10 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:management|data:gagal login, salah captcha|
+APPLOG - 2018-04-23 16:35:22 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:11|data:Management|data:berhasil login|
+APPLOG - 2018-04-23 16:35:22 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:11|data:Management|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:35:40 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:11|data:Management|data:berhasil logout|
+APPLOG - 2018-04-23 16:35:57 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:ruslan|data:gagal login salah username atau password|
+APPLOG - 2018-04-23 16:36:17 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:ruslan|data:gagal login salah username atau password|
+APPLOG - 2018-04-23 16:37:12 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:11|data:Management|data:berhasil login|
+APPLOG - 2018-04-23 16:37:12 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:11|data:Management|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:40:12 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:11|data:Management|data:berhasil logout|
+APPLOG - 2018-04-23 16:40:20 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:13|data:ruslan|data:berhasil login|
+APPLOG - 2018-04-23 16:40:20 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:13|data:ruslan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:40:29 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:13|data:ruslan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:40:49 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:13|data:ruslan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:40:55 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:13|data:ruslan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:44:34 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:13|data:ruslan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:46:06 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:13|data:ruslan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:53:39 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:13|data:ruslan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 16:53:41 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project inactive_project   |user:13|data:ruslan|data:masuk ke halaman inactive project|
+APPLOG - 2018-04-23 16:56:51 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:13|data:ruslan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 16:57:00 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:13|data:ruslan|data:berhasil logout|
+APPLOG - 2018-04-23 17:05:59 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |user:3|data:Dermawan|data:berhasil login|
+APPLOG - 2018-04-23 17:05:59 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|data:Dermawan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 17:06:14 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|data:Dermawan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 17:06:19 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl    |user:3|data:Dermawan|data:masuk halaman icl|
+APPLOG - 2018-04-23 17:06:23 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:users    |user:3|data:Dermawan|data:masuk ke halaman user|
+APPLOG - 2018-04-23 17:06:26 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|data:Dermawan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 17:06:32 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project view_project P000000032  |user:3|data:Dermawan|data:masuk ke halaman view project|
+APPLOG - 2018-04-23 17:06:36 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl    |user:3|data:Dermawan|data:masuk halaman icl|
+APPLOG - 2018-04-23 17:06:40 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl view_icl ICL0000002  |user:3|data:Dermawan|data:masuk halaman view icl|
+APPLOG - 2018-04-23 17:06:45 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl    |user:3|data:Dermawan|data:masuk halaman icl|
+APPLOG - 2018-04-23 17:06:47 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl update_icl ICL0000002  |user:3|data:Dermawan|data:masuk halaman update icl|
+APPLOG - 2018-04-23 17:06:52 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl icl_update   |user:3|data:Dermawan|data:icl berhasil diupdate|data:ICL0000002|data:3|data:0|data:3|data:1|data:0000-00-00|data:0000-00-00|data:Update file Secure.java di folder play<br>|data:1|data:2018-04-23 17:06:52|data:3|data:|
+APPLOG - 2018-04-23 17:06:52 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:icl    |user:3|data:Dermawan|data:masuk halaman icl|
+APPLOG - 2018-04-23 17:20:42 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:project    |user:3|data:Dermawan|data:masuk ke halaman list project|
+APPLOG - 2018-04-23 17:20:44 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:dashboard    |user:3|data:Dermawan|data:masuk ke halaman dashboard|
+APPLOG - 2018-04-23 17:21:38 --> ip:202.62.17.58|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:login cek_login   |data:Hshs|data:gagal login, salah captcha|
+APPLOG - 2018-04-23 17:22:29 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login logout   |user:3|data:Dermawan|data:berhasil logout|
+ERROR - 2018-04-23 17:37:33 --> Severity: Parsing Error --> syntax error, unexpected ''APPLOG'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' /var/www/html/app-development/application/views/log_view.php 58
+ERROR - 2018-04-23 17:38:12 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:10 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:14 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:17 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:18 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:51 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:52 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:52 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:40:52 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:41:32 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:41:33 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:41:33 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:41:34 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:41:37 --> 404 Page Not Found: Log/1
+ERROR - 2018-04-23 17:42:16 --> 404 Page Not Found: Log/1
+ERROR - 2018-04-23 17:42:21 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:46:03 --> 404 Page Not Found: Log/2018-04-22
+ERROR - 2018-04-23 17:48:45 --> 404 Page Not Found: Log1/index
+ERROR - 2018-04-23 17:50:51 --> Severity: Error --> Call to a member function get_file() on null /var/www/html/app-development/application/controllers/Log.php 30
+APPLOG - 2018-04-23 17:53:16 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:deramwan|data:gagal login, salah captcha|
+APPLOG - 2018-04-23 17:53:54 --> ip:202.62.17.58|browser:Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36|uri:login cek_login   |data:Shsh|data:gagal login, salah captcha|
+APPLOG - 2018-04-23 18:16:34 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:sadw|data:gagal login, salah captcha|
+APPLOG - 2018-04-23 18:17:07 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:as|data:gagal login, salah captcha|
+APPLOG - 2018-04-23 18:17:38 --> ip:36.89.29.159|browser:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0|uri:login cek_login   |data:asd|data:gagal login, salah captcha|
