@@ -81,6 +81,16 @@
         });
 </script>
     
+<script type="text/javascript">
+		$(function () { 
+					new PNotify({
+						title: 'Update Info',
+						text: '<?php foreach($data_master_info as $row){ ?><p><?php echo $row->isi_info; ?></p><?php } ?>',
+						addclass: 'notification-success',
+						icon: 'fa fa-info' 
+				}); 
+		}); 
+</script> 
 
 <?php
 	if ($this->session->userdata('ROLEID') == '1') {  

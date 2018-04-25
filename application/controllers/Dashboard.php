@@ -31,7 +31,8 @@ class Dashboard extends CI_Controller{
             'jumlah_inactive_pmo' => $this->model_app->getCountInActiveProjectPMO()->num_rows(),
             'jumlah_inactive_kordinator' => $this->model_app->getCountAllInActiveProject()->num_rows(),
             'jumlah_all_icl_open' => $this->model_app->getCountAllOpenIcl()->num_rows(),
-            'jumlah_icl_open_qt' => $this->model_app->getCountOpenIclQT()->num_rows()
+            'jumlah_icl_open_qt' => $this->model_app->getCountOpenIclQT()->num_rows(),
+            'data_master_info'=>$this->model_app->getSelectedData('tbl_minfo',array('isactive'=>1))->result()
         ); 
 		
 		$data=array(

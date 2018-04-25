@@ -33,7 +33,9 @@ class Users extends CI_Controller{
             'jumlah_all_project_expired' => $this->model_app->getCountAllExpiredProject()->num_rows(),
             'jumlah_allproject_qt' => $this->model_app->getCountAllprojectQT()->num_rows(),
             'jumlah_allproject_pmo' => $this->model_app->getCountAllprojectPMO()->num_rows(),
-            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows()
+            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows(),
+            
+            'data_master_info'=>$this->model_app->getSelectedData('tbl_minfo',array('isactive'=>1))->result()
         ); 
 
         //buatlog

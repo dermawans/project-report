@@ -58,7 +58,12 @@ class Model_app extends CI_Model{
 	
     function updateData($table,$data,$field_key)
     {
-        $this->db->update($table,$data,$field_key);
+        $query=$this->db->update($table,$data,$field_key);
+        if($query) {
+            return TRUE; //if query is true
+        } else {
+            return FALSE; //if query is wrong
+        }
     }
     
 	// Untuk Dipakai Semua Bagian =================
