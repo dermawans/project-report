@@ -46,7 +46,11 @@
 		</div>
 		<br>
         <div class="table-responsive">
+        <?php 
+        if ($this->session->userdata('ROLEID') <> '6') { 
+		?>
 		<a href="<?php echo site_url('project/inactive_project/')?>" class="btn btn-sm btn-primary"><i class="fa fa-archive"></i> View Inactive Project</a> 
+		<?php } ?>
         <table class="table table-bordered table-striped table-condensed mb-none" id="datatable-tabletools" data-swf-path="<?php echo base_url(); ?>assets/vendor/jquery-datatables/extras/TableTools/swf/copy_csv_xls_pdf.swf">
             <thead>
                 <tr>
@@ -65,7 +69,7 @@
         			?>
 					<a href="#add_project" class="modal-with-form btn btn-sm btn-primary"><i class="fa fa-plus-circle"></i> Add Project</a>
 					<?php }
-					if ($this->session->userdata('ROLEID') == '2' or $this->session->userdata('ROLEID') == '1' or $this->session->userdata('ROLEID') == '5') { 
+					if ($this->session->userdata('ROLEID') == '2' or $this->session->userdata('ROLEID') == '1' or $this->session->userdata('ROLEID') == '5' or $this->session->userdata('ROLEID') == '6') { 
         			?>
                     Action
 					<?php } ?>
@@ -125,7 +129,7 @@
                     if ($this->session->userdata('ROLEID') <> '5') { 
         			?> 
 		                <?php 
-		                if ($this->session->userdata('ROLEID') == '4' or $this->session->userdata('ROLEID') == '2') { 
+		                if ($this->session->userdata('ROLEID') == '4' or $this->session->userdata('ROLEID') == '2' or $this->session->userdata('ROLEID') == '6') { 
 		    			?>
 							<a class="btn btn-primary btn-sm" href="<?php echo site_url('project/update_project/'.$row->kd_project)?>"><i class="fa fa-pencil"></i> Update</a>
 				        <?php } else { ?>

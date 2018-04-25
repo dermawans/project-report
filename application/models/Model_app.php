@@ -295,6 +295,26 @@ class Model_app extends CI_Model{
 			order by a.create_date desc
 		")->result();
     }
+
+	 function getAllDataProjectPerTL(){ 
+		    return $this->db->query("
+		    select distinct
+			a.kd_project, a.projectname, a.create_date, 
+			b.id_history,b.id_qtname,b.id_pmoname,b.status_project,b.st_awal,b.st_akhir,b.description,b.file_project,b.priority,
+			c.username as qtname,
+			d.username as pmoname,
+			e.nama_priority_project,
+			f.nama_status_project
+				from core_project a 
+				left join projecthistory b on a.kd_project=b.kd_project
+				left join webuser c on b.id_qtname=c.id_name
+				left join webuser d on b.id_pmoname=d.id_name
+				left join mpriority_project e on b.priority=e.id_priority_project
+				left join mstatus_project f on b.status_project=f.id_status_project
+				where b.isactive=1 and status_project='4' 
+				order by a.create_date desc
+			")->result();
+		}
     
     function getAllDataProjectPerQTReport(){
 		$id_qtname = $this->session->userdata('ID'); 
@@ -488,8 +508,41 @@ class Model_app extends CI_Model{
 			left join mstatus_project f on a.status_project=f.id_status_project
 			where a.kd_project='".$kd_project."' order by a.id_history desc")->result();
     } 
+	
+	function getDataProjectAllHistoryTLDescription(){
+			$kd_project = array();
+			$kd_project = $this->uri->segment(3);
+			return $this->db->query("
+				select distinct
+	 			a.id_history,a.status_project,a.create_date,a.description,a.file_project, a.priority,
+				d.username as creator,
+				e.nama_priority_project,
+				f.nama_status_project
+				from projecthistory a left join webuser b on a.id_pmoname=b.id_name
+				left join webuser c on a.id_qtname=c.id_name
+				left join webuser d on a.create_by=d.id_name
+				left join mpriority_project e on a.priority=e.id_priority_project
+				left join mstatus_project f on a.status_project=f.id_status_project
+				where a.kd_project='".$kd_project."' order by a.id_history desc")->result();
+		} 
 
 	function getLastStatusProjectHistory(){
+		$kd_project = array();
+		$kd_project = $this->uri->segment(3);
+		return $this->db->query("
+		select 
+		a.description,a.status_project,a.file_project,a.priority,a.st_akhir,
+		b.nama_priority_project,
+		c.nama_status_project 
+		from projecthistory a		
+		left join mpriority_project b on a.priority=b.id_priority_project
+		left join mstatus_project c on a.status_project=c.id_status_project
+		where kd_project='".$kd_project."' and isactive= '1'
+		")->result();
+    } 
+
+	
+	function getLastStatusProjectTLHistory(){
 		$kd_project = array();
 		$kd_project = $this->uri->segment(3);
 		return $this->db->query("

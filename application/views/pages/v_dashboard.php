@@ -18,9 +18,9 @@
 	<!-- start widget status-->
     <div class="row">
 	
-	<?php
-		if ($this->session->userdata('ROLEID') <> '6') {  
-	?>
+			<?php
+				if ($this->session->userdata('ROLEID') <> '6') {  
+			?>
     		<div class="col-md-12 col-lg-12 col-xl-12">
 				<section class="panel panel-featured">
 					<div class="panel-body">
@@ -246,6 +246,36 @@
 					</div>
 				</section>
 			</div> 
+
+			<?php
+				if ($this->session->userdata('ROLEID') == '6') {  
+			?>
+			<div class="col-md-12 col-lg-3 col-xl-3">
+				<section class="panel panel-featured-left panel-featured-primary">
+					<div class="panel-body">
+						<div class="widget-summary widget-summary-sm">
+							<div class="widget-summary-col widget-summary-col-icon">
+								<div class="summary-icon bg-primary">
+									<i class="fa fa-download"></i>
+								</div>
+							</div>
+							<div class="widget-summary-col">
+								<div class="summary">
+									<a href="<?php echo site_url('icl')?>">
+									<h2 class="title">Project handover</h2>
+									<div class="info">
+										<strong class="amount"> 
+											<span class="pull-left label label-primary"><?php echo $jumlah_project_handover; ?></span> 
+										</strong> 
+									</div>
+									</a>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+			<?php } ?>  
 										
 		</div>
 	</div>

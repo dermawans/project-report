@@ -226,10 +226,7 @@ canvas {
 											<i class="fa fa-dashboard" aria-hidden="true"></i>
 											<span>Dashboard</span>
 										</a>
-									</li>
-									<?php
-										if ($this->session->userdata('ROLEID') <> '6') {  
-									?>
+									</li> 
 									<li class="nav-<?php if(isset($active_project)){echo $active_project ;}?>">
 										<a href="<?php echo site_url('project')?>">
 										<?php
@@ -250,8 +247,7 @@ canvas {
 											<i class="fa fa-dashcube" aria-hidden="true"></i>
 											<span>Project</span>
 										</a>
-									</li>
-									<?php } ?>
+									</li> 
 									<?php
 										if ($this->session->userdata('ROLEID') == '2' or $this->session->userdata('ROLEID') == '1' or $this->session->userdata('ROLEID') == '4'  or $this->session->userdata('ROLEID') == '6') {  
 									?>

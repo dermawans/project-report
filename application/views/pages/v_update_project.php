@@ -116,23 +116,37 @@
 			<div class="row">
 			    <div class="col-md-12 text-right">
 					<?php
-				    if(isset($laststatusprojecthistory)){
-				    foreach($laststatusprojecthistory as $lsph){ 
-						 if($this->session->userdata('ROLEID') == '2' and $lsph->status_project=='8') { ?>
-			    		  <a href="#add_qt_pic" class="modal-with-form btn btn-primary">Assign QT PIC</a>
-					<?php } 
-						  if($this->session->userdata('ROLEID') == '1') { ?>
-						  <?php if(date("Y-m-d")+1 == $lsph->st_akhir or date("Y-m-d") > $lsph->st_akhir) { ?>
-						  <a href="" class="modal-with-form btn btn-primary" disabled>Update</a> 
-					<?php } else { ?> 
-						  <a href="#qt_update" class="modal-with-form btn btn-primary">Update</a> 
-					<?php } } ?>
-					<?php if($this->session->userdata('ROLEID') == '2') { ?>
-						  <a href="#qt_update" class="modal-with-form btn btn-primary">Update</a> 
-					<?php } ?> 
-					<?php if($this->session->userdata('ROLEID') == '3' or $this->session->userdata('ROLEID') == '4') { ?>
-			    	<a href="#pmo_update" class="modal-with-form btn btn-primary">Give Feedback</a> 
-					<?php }
+				    if(isset($laststatusprojecthistory))
+					{
+				    foreach($laststatusprojecthistory as $lsph)
+						{ 
+						 if($this->session->userdata('ROLEID') == '2' and $lsph->status_project=='8') 
+							   { ?>
+						  <a href="#add_qt_pic" class="modal-with-form btn btn-primary">Assign QT PIC</a>
+						 <?php } 
+						 if($this->session->userdata('ROLEID') == '1') 
+						 	{ ?>
+							<?php if(date("Y-m-d")+1 == $lsph->st_akhir or date("Y-m-d") > $lsph->st_akhir) 
+								  { ?>
+							 		<a href="" class="modal-with-form btn btn-primary" disabled>Update</a> 
+							<?php } 
+							else { ?> 
+							  <a href="#qt_update" class="modal-with-form btn btn-primary">Update</a> 
+							<?php } 
+							} ?>
+						<?php if($this->session->userdata('ROLEID') == '2') 
+							{ ?>
+							  <a href="#qt_update" class="modal-with-form btn btn-primary">Update</a> 
+					  <?php } ?> 
+						<?php if($this->session->userdata('ROLEID') == '3' or $this->session->userdata('ROLEID') == '4') 
+							{ ?>
+						<a href="#pmo_update" class="modal-with-form btn btn-primary">Give Feedback</a> 
+					  <?php } ?>
+						<?php if($this->session->userdata('ROLEID') == '6') 
+							{ ?>
+						<a href="#tl_update" class="modal-with-form btn btn-primary">Give Feedback</a> 
+					  <?php } ?>
+					  <?php
 						}
 					} ?> 
 			        <a class="btn btn-primary" href="<?php echo site_url('project')?>">Close</a>
@@ -645,6 +659,132 @@ foreach($laststatusprojecthistory as $lsph){
 <?php echo form_close(); ?> 
 </div>
 <!-- Modal Form PMO UPDATE-->
+<?php } ?>
+
+
+<?php if($this->session->userdata('ROLEID') == '6') { ?>			    	
+<!-- Modal Form TL UPDATE-->
+<div id="tl_update" class="modal-block modal-block-lg mfp-hide">
+<?php echo form_open_multipart('project/tl_update','id="wizard" class="form-horizontal"'); ?> 
+ 
+    <section class="panel">
+        <header class="panel-heading">
+            <h2 class="panel-title">Update History</h2>
+        </header>
+        <div class="panel-body">
+            <form id="demo-form" class="form-horizontal mb-lg" novalidate="novalidate">  
+	 			<?php
+				  if(isset($data_project)){
+				  foreach($data_project as $dp){
+				?> 
+                <input type="hidden" name="kd_project" class="form-control" value="<?php echo $dp->kd_project;?>" readonly="readonly"/>
+                <div class="form-group mt-lg">
+		            <label class="col-sm-4 control-label">Project Name</label>
+		            <div class="col-sm-6">
+		                <input type="text" name="projectname" class="form-control" value="<?php echo $dp->projectname; ?>" readonly="readonly"/>
+		            </div>
+		        </div>  
+				<div class="form-group mt-lg">
+		            <label class="col-sm-4 control-label">Project Status</label>
+		            <div class="col-sm-6">
+						<select data-plugin-selectTwo class="form-control populate" id="status_project" name="status_project" placeholder="Chose Status" required>   
+                            <option value="<?php echo $dp->status_project;?>"><?php echo $dp->nama_status_project;?></option> 
+                        </select>
+		            </div>
+		        </div>
+ 
+				<div class="form-group mt-lg">
+		            <label class="col-sm-4 control-label">Priority</label>
+		            <div class="col-sm-6">
+						<select data-plugin-selectTwo class="form-control populate" id="priority" name="priority" placeholder="Chose priority" required>    
+							<option value="<?php echo $dp->priority; ?>"><?php echo $dp->nama_priority_project; ?></option>  
+                        </select> 
+		            </div>
+		        </div> 		 
+				
+				<div class="form-group mt-lg">
+                    <label class="col-sm-4 control-label">PIC QT</label>
+                    <div class="col-sm-6"> 
+						<input type="hidden" name="id_history" class="form-control" value="<?php echo $dp->id_history;?>" readonly="readonly"/>
+		                <input type="hidden" name="id_qtname" class="form-control" value="<?php echo $dp->id_qtname; ?>" readonly="readonly"/>
+		                <input type="text" name="qtname" class="form-control" value="<?php echo $dp->qtname; ?>" readonly="readonly"/>  
+                    </div>
+                </div>	 
+ 
+				<div class="form-group mt-lg">
+		            <label class="col-sm-4 control-label">PIC PMO</label>
+		            <div class="col-sm-6"> 
+		                <input type="text" name="pmoname" class="form-control" value="<?php echo $dp->pmoname; ?>" readonly="readonly"/>
+						<input type="hidden" name="id_pmoname" class="form-control" value="<?php echo $dp->id_pmoname; ?>" readonly="readonly"/>
+		            </div>
+		        </div>	 
+				
+				<div class="form-group mt-lg">
+                    <label class="col-sm-4 control-label">Start Date</label>
+                    <div class="col-md-6">
+						 <div class="form-group"> 
+							<div class="col-md-8">
+								<div class="input-group">
+									<span class="input-group-addon">
+										<i class="fa fa-calendar"></i>
+									</span> 
+									<input type="text" class="form-control" id="st_awal" name="st_awal" value="<?php echo $dp->st_awal; ?>" readonly> 
+								</div>
+							</div>
+						</div>
+					</div>
+                </div>	 
+
+				<div class="form-group mt-lg">
+		            <label class="col-sm-4 control-label">End Date</label>
+                    <div class="col-md-6">
+						 <div class="form-group"> 
+							<div class="col-md-8">
+								<div class="input-group">
+									<span class="input-group-addon">
+										<i class="fa fa-calendar"></i>
+									</span> 
+									<input type="text" class="form-control" id="st_akhir" name="st_akhir" value="<?php echo $dp->st_akhir; ?>" readonly> 
+								</div>
+							</div>
+						</div>
+					</div>
+		        </div>	
+ 
+				<div class="form-group mt-lg">
+					<label class="col-md-4 control-label">File Upload<br><h8><i>Hanya bisa upload file .zip<br>Max. size 10MB</i></h8></label>
+					<div class="col-md-6">
+		  		        <input type="file" name="fileupload" accept=".zip" onchange="ValidateSingleInput(this);"> 
+					</div>
+				</div>	
+ 
+				<div class="textarea">
+                    <label class="col-sm-2 control-label">Description</label>
+                    <textarea id="description" name="description" class="summernote" data-plugin-summernote data-plugin-options='{ "height": 180, "codemirror": { "theme": "ambiance" } }'></textarea>
+                </div>
+ 
+                <div class="form-group">
+                    <div class="col-md-6">
+                        <input id="create_by" type="hidden"  class="form-control" name="create_by" value="<?php echo $this->session->userdata('ID') ?>" readonly="readonly">
+				 	</div>
+                </div> 
+				<footer class="panel-footer">
+					<div class="row">
+						<div class="col-md-12 text-right">
+							<button type="submit" class="btn btn-default btn-primary">Submit</button>
+							<button class="btn btn-default modal-dismiss">Cancel</button>
+						</div>
+					</div>
+				</footer>
+				<?php }
+				}
+				?> 
+            </form>
+        </div>
+    </section>
+<?php echo form_close(); ?> 
+</div>
+<!-- Modal Form TL UPDATE-->
 <?php } ?>
 
 <script type="text/javascript">
