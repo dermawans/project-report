@@ -1,0 +1,1 @@
+APPLOG - 2018-04-26 11:19:32 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>dermawan|gagal login salah username atau password|

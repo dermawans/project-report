@@ -342,6 +342,26 @@ foreach($laststatusprojecthistory as $lsph){
 			        </div>
 			    </div>	
 
+				<?php if(($this->session->userdata('ROLEID') == '2') { ?>
+				<div class="form-group mt-lg">
+		            <label class="col-sm-4 control-label">PIC QT</label>
+		            <div class="col-sm-6"> 
+						<select data-plugin-selectTwo class="form-control populate" id="id_qtname" name="id_qtname" placeholder="Chose QT">
+                                    <option value="<?php echo $dp->id_qtname;?>"><?php echo $dp->qtname;?></option>
+                            <?php
+                            if(isset($data_master_qt)){
+                                foreach($data_master_qt as $qt){
+                                    ?>
+                                    <option value="<?php echo $qt->id_name;?>"><?php echo $qt->username;?></option>
+                                <?php
+                                }
+                            }
+                            ?>
+                        </select> 
+                   </div>
+		        </div>	
+				<?php } ?>
+				<?php if(($this->session->userdata('ROLEID') == '3') { ?>
 				<div class="form-group mt-lg">
 		            <label class="col-sm-4 control-label">PIC QT</label>
 		            <div class="col-sm-6"> 
@@ -359,6 +379,7 @@ foreach($laststatusprojecthistory as $lsph){
                         </select> 
                    </div>
 		        </div>	
+				<?php } ?>
 		        
 				<div class="form-group mt-lg">
 		            <label class="col-sm-4 control-label">PIC PMO</label>
