@@ -342,7 +342,7 @@ foreach($laststatusprojecthistory as $lsph){
 			        </div>
 			    </div>	
 
-				<?php if(($this->session->userdata('ROLEID') == '2') { ?>
+				<?php if($this->session->userdata('ROLEID') == '2') { ?>
 				<div class="form-group mt-lg">
 		            <label class="col-sm-4 control-label">PIC QT</label>
 		            <div class="col-sm-6"> 
@@ -360,8 +360,7 @@ foreach($laststatusprojecthistory as $lsph){
                         </select> 
                    </div>
 		        </div>	
-				<?php } ?>
-				<?php if(($this->session->userdata('ROLEID') == '3') { ?>
+				<?php } else { ?>
 				<div class="form-group mt-lg">
 		            <label class="col-sm-4 control-label">PIC QT</label>
 		            <div class="col-sm-6"> 
